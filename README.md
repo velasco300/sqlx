@@ -1,7 +1,7 @@
 <h1 align="center">SQLx</h1>
 <div align="center">
  <strong>
-   🧰 The Rust SQL Toolkit
+   🧰 The Rust SQL Toolkitddd
  </strong>
 </div>
 
